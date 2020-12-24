@@ -1,4 +1,4 @@
-# Discord.js'de / Komutları Ekleme
+# Discord.js'de "/" Komutları Ekleme  / Örnek Oto Rol Komutu
 
 ## Genel Anlatım
 
