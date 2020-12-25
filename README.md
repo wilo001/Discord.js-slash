@@ -97,8 +97,8 @@ client.on("ready", () => {
 ## Oto Rol Komutu
 
 * Oto Rol komutu kurulumu için ilk öncelikle botumuza yetki veriyoruz (Global komutlar kısmında anlattığım gibi).
-* Daha sonra [bot.js](https://github.com/CodAre-Development/Discord.js-slash/bot.js) dosyasındaki ilk parçayı alıyoruz ve çalıştırıyoruz. Çalıştırdıktan sonra hatasız bir şekilde ekranda "hazır" yazarsa botu kapatıp kodu siliyoruz.
-* Ardından [bot.js](https://github.com/CodAre-Development/Discord.js-slash/bot.js) dosyasındaki ikinci parçayı alıyoruz ve çalıştırıyoruz.
+* Daha sonra [bot.js](https://github.com/CodAre-Development/Discord.js-slash/blob/main/bot.js) dosyasındaki ilk parçayı alıyoruz ve çalıştırıyoruz. Çalıştırdıktan sonra hatasız bir şekilde ekranda "hazır" yazarsa botu kapatıp kodu siliyoruz.
+* Ardından [bot.js](https://github.com/CodAre-Development/Discord.js-slash/blob/main/bot.js) dosyasındaki ikinci parçayı alıyoruz ve çalıştırıyoruz.
 * Ve botunuz artık hazır!
 
 #### Ek notlar;
@@ -106,3 +106,4 @@ client.on("ready", () => {
 * Eğer botunuz çalışmazsa ve hata verirse dert etmeyin çünkü bu daha yeni gelmiş bir özellik ve tam çalışmayan bir özellik.
 * Bu bilgilerin hepsini internetten araştırdım daha fazla bilgi istiyorsanız [buradan](https://discord.com/developers/docs/interactions/slash-commands) ve ya internette araştırarak bulabilirsiniz.
 * V12 için geçerlidir v11'de çalışmamaktadır.
+* Elimden geldiğince anlatmaya çalıştım umarım anlamışsınızdır.
