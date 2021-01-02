@@ -20,7 +20,7 @@ client.on('ready', async () => {
                 },
                 {
                   name: "rol",
-                  description: "Sunucuya katılan kişilere botun hangi rolü vereceğini seçersiniz.",
+                  description: "Sunucuya katılan kişilere botun hangi rasolü vereceğini seçersiniz.",
                   type: 8,
                   required: true
                 }
